@@ -41,7 +41,9 @@ Or let's get system info and munki version and ask for that in the window:
 ```
 <img width="932" alt="Screenshot 2024-06-02 at 10 24 36" src="https://github.com/natewalck/mdoyvr2024/assets/867868/96e3fe22-4f70-408e-bcbd-15707e10d982">
 
+
 Ask for it to be more pretty using markdown
 ```
 ./macadmin.py "Get system info and the munki version then show me the versions in a window using markdown"
 ```
+<img width="932" alt="Screenshot 2024-06-02 at 10 25 39" src="https://github.com/natewalck/mdoyvr2024/assets/867868/9276d183-fd3c-4ed1-8d5b-921b56352c19">
